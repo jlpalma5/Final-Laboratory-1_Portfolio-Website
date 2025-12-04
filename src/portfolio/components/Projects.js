@@ -29,7 +29,7 @@ const projects = [
     desc: "A Java-based library management system with a user-friendly GUI for managing books and members.",
     tech: ["Java"],
     demo: "#",
-    repo: "#",
+    repo: "https://github.com/jlpalma5/LibrarySystem.git",
   },
 ];
 

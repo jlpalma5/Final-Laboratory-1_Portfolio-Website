@@ -1,0 +1,14 @@
+display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 28px;
+  align-items: start;
+  margin: 22px 0 0 0;
+}
+=======
+.top-cards {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 28px;
+  align-items: start;
+  margin: 48px 0 48px 0;
+}
